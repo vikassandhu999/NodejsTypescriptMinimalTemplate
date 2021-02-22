@@ -1,25 +1,5 @@
-## AskingBadForum ( Clean Code Architecture and Tests )
+## Node.js and Typescript minimalistic template with Clean Code Architecture and Testing
 
-##### A Public web forum created with Node.js, Typescript and MongoDB. Clean Code practices and testable code
-
-### Table of contents
-* [Features](#features)
-* [Technologies](#technologies)
-* [Author](#author)
-
-## Features
-* User Signup & Login
-* User Email Verification
-* Users can create own forum threads, reply to others', list daily interactions etc.
- 
-## Technologies
-* Node.js
-* MongoDB
-* Express
-* Typescript
-* JWTs
-
- 
 ## Author
    * Name : Vikas
    * Github : (https://github.com/vikassandhu999)
